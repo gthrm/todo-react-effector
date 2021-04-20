@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/todo-react-effector/static/js/main.3a5e6cfa.chunk.js",
-    "main.js.map": "/todo-react-effector/static/js/main.3a5e6cfa.chunk.js.map",
+    "main.js": "/todo-react-effector/static/js/main.bb90d204.chunk.js",
+    "main.js.map": "/todo-react-effector/static/js/main.bb90d204.chunk.js.map",
     "runtime-main.js": "/todo-react-effector/static/js/runtime-main.651d19f6.js",
     "runtime-main.js.map": "/todo-react-effector/static/js/runtime-main.651d19f6.js.map",
     "static/js/2.9ae7b5b0.chunk.js": "/todo-react-effector/static/js/2.9ae7b5b0.chunk.js",
@@ -14,6 +14,6 @@
   "entrypoints": [
     "static/js/runtime-main.651d19f6.js",
     "static/js/2.9ae7b5b0.chunk.js",
-    "static/js/main.3a5e6cfa.chunk.js"
+    "static/js/main.bb90d204.chunk.js"
   ]
 }
