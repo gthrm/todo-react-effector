@@ -8,7 +8,7 @@ function TodoAdd() {
   return (
     <Grid pt={2} templateColumns="5fr 1fr" columnGap="3">
       <Input placeholder="New todo" value={store.newTodo} onChange={(event) => setNewTodo(event.target.value)} />
-      <Button onClick={() => add()}>Add Todo</Button>
+      <Button onClick={() => add()}>Add</Button>
     </Grid>
   )
 }
