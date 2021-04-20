@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Build pages
-        run: export PUBLIC_URL=todo-react-effector && npm run build
+        run: export PUBLIC_URL=/ && npm run build
       - name: Deploy with gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
